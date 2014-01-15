@@ -1,8 +1,8 @@
-# Getting Ready
+# Getting Started
 
-If you've installed git and node js properly then you should beable to do the following:
+Perform the following to ensure you've installed Node.js and git properly.
 
-Go ahead and clone this repository with the following command in your terminal or command prompt: 
+Clone the repository with the following command in your terminal or command prompt:
 
 ```
 git clone https://github.com/josebezme/beginner-javascript.git
